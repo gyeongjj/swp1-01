@@ -1,2 +1,5 @@
 # 20203034xxx	 Kim do gyeong
-# Kookmin Univ. computer sicence
+# Kookmin Univ. computer Sicence
+
+
+
