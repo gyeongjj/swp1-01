@@ -1,5 +1,2 @@
-# 20203034xxx	 Kim do gyeong
-# Kookmin Univ. computer Sicence
-
-
-
+20203034 kim do gyeong
+Kookmin Univ. SW
